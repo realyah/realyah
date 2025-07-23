@@ -11,29 +11,6 @@
 
 ---
 
-## 🏆 GitHub Stats & Badges
-
-[![committers.top badge](https://user-badge.committers.top/laos_private/realyah.svg)](https://user-badge.committers.top/laos_private/realyah)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realyah&layout=compact&hide=css,html)
-
----
-
-## 📈 Activity
-
-![Yah's GitHub stats](https://github-readme-stats.vercel.app/api?username=realyah&show_icons=true&theme=default)
-
----
-
-## 👨‍💻 About Me
-
-Hi, I'm Yah.  
-- 💡 Passionate developer from Laos  
-- 🧩 Love building scalable web apps  
-- 🏅 Open for collaboration, especially in OSS projects
-- ☕ Always up for coffee and tech talks!
-
----
-
 ## 🔗 Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/YahSanDee)
