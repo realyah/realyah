@@ -1,8 +1,18 @@
 <h1 align="center">👋 Hi, I'm Yah</h1>
 
 <p align="center">
-  <img src="https://user-badge.committers.top/laos_private/realyah.svg" alt="committers.top badge"/>
+  <a href="https://committers.top/laos_private/realyah">
+    <img 
+      src="https://user-badge.committers.top/laos_private/realyah.svg" 
+      alt="committers.top badge" 
+      style="border-radius: 12px; box-shadow: 0 0 15px #00f2ff;"/>
+  </a>
 </p>
+
+<p align="center">
+  🚀 <b>Ranked among the Top Committers in Laos</b> 🚀
+</p>
+
 
 ---
 
