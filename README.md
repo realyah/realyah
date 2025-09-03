@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://committers.top/laos_private/realyah">
-    <img src="https://img.shields.io/badge/committers.top-%2327-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000" alt="committers rank"/>
+    <img src="https://img.shields.io/badge/committers.top-27-black?style=for-the-badge&logo=github&labelColor=FFD700&color=FF0000&logoColor=white" alt="committers rank"/>
   </a>
 </p>
+
 
 
 </p>
