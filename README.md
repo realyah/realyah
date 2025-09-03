@@ -24,15 +24,7 @@
   <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,nodejs,aws,docker,git,nginx&theme=dark" />
 </p>
 
----
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realyah&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyah&layout=compact&theme=tokyonight" height="165" />
-</div>
-
----
 
 ### 🎯 About Me
 - 🧑‍💻 Building scalable **fullstack applications**  
