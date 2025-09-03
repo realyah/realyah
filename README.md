@@ -8,7 +8,8 @@
 
 <div align="center">
 
-💻 **Fullstack Developer** | 🚀 **Vue.js | Node.js | TypeScript**  
+💻 **Fullstack Developer**  
+🚀 **Vue.js | Node.js | TypeScript | AWS**  
 
 🌍 Based in **Laos**  
 📬 Email: **realyahlee@gmail.com**  
@@ -20,7 +21,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,nodejs,express,tailwind,nginx,aws,git,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,nodejs,aws,docker,git,nginx&theme=dark" />
 </p>
 
 ---
@@ -34,9 +35,9 @@
 ---
 
 ### 🎯 About Me
-- 🧑‍💻 Passionate about **building scalable web apps**  
-- ⚡ Love experimenting with **cloud + devops**  
-- 🎨 Always tweaking **UI/UX** to be clean & modern  
+- 🧑‍💻 Building scalable **fullstack applications**  
+- ⚡ Cloud & DevOps with **AWS**  
+- 🎨 Focused on **clean UI/UX + performance**  
 
 ---
 
