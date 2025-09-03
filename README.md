@@ -9,9 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  🚀 <b>Ranked among the Top Committers in Laos</b> 🚀
-</p>
 
 
 ---
