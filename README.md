@@ -34,6 +34,9 @@
 </p>
 
 
+### 🎓 Education
+- Bachelor of Science in Website Development (Senior Year) – National University of Laos
+
 
 ### 🎯 About Me
 - 🧑‍💻 Building scalable **fullstack applications**  
