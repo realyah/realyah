@@ -30,7 +30,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,nodejs,aws,docker,git,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,nodejs,aws,gcp,docker,git,nginx&theme=dark" />
 </p>
 
 
