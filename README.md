@@ -35,7 +35,7 @@
 
 
 ### 🎓 Education
-- Bachelor of Science in Website Development (Senior Year) – National University of Laos
+- Bachelor of Science in Website Development – National University of Laos
 
 
 ### 🎯 About Me
