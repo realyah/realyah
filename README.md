@@ -34,8 +34,10 @@
 </p>
 
 
+
 ### 🎓 Education
 - Bachelor in Website Development - National University of Laos
+
 
 
 ### 🎯 About Me
