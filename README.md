@@ -20,8 +20,7 @@
 💻 **Fullstack Developer**  
 🚀 **Vue.js | Node.js | TypeScript | AWS**  
 
-🌍 Based in **Laos**  
-📬 Email: **realyahlee@gmail.com**  
+🌍 Based in **Laos**
 📱 Facebook: [**YahSanDee**](https://facebook.com/YahSanDee)  
 
 </div>
