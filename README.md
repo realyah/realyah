@@ -18,7 +18,7 @@
 <div align="center">
 
 💻 **Fullstack Developer**  
-🚀 **Vue.js | Node.js | TypeScript | AWS**  
+🚀 **Vue.js | Node.js | TypeScript | GCP | AWS**  
 
 🌍 Based in **Laos**
 📱 Facebook: [**YahSanDee**](https://facebook.com/YahSanDee)  
